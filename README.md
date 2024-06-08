@@ -1,14 +1,16 @@
 # CRUD con Node.js
 
-## Istalación
+## Instalación
 
-''' shell
+~~~~
+ shell
 
 npm install o npm i
 
-'''
+~~~~
 ## Ejecutar
 
-'''shell
+~~~~
+shell
 npm run dev
-'''
+~~~~
